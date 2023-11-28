@@ -9,4 +9,5 @@
     }
   ],
   "permissions": ["tabs", "tabs.active"]
+  "comment": "Testuju změny pro Krakena (Ondra)"
 }
